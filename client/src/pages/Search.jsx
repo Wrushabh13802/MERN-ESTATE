@@ -113,6 +113,7 @@ export default function Search() {
     const searchQuery = urlParams.toString();
     navigate(`/search?${searchQuery}`);
   };
+  
 
   const onShowMoreClick = async () => {
     const numberOfListings = listings.length;

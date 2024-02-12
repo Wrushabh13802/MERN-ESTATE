@@ -71,7 +71,7 @@ export const {
   updateUserSuccess,
   updateUserStart,
   deleteUserFailure,
-  deleteUserSucces,
+  deleteUserSuccess,
   deleteUserStart,
   signOutUserFailure,
   signOutUserSucces,
